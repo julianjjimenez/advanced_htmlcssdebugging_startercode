@@ -15,11 +15,13 @@ header {
 h1 {
   color: #286090;
 }
-
-img {
+#cat1 {
   max-width: 60%;
 }
 
 .red-text {
   color: #d31616;
+}
+#cat2 {
+  max-width: 50%;
 }
